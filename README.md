@@ -1,7 +1,5 @@
-#Github Workshop I
-
+# Github Workshop I
 -Introduction to Git and Github
 
-#Github Workshop II
-
+# Github Workshop II
 -Creating and mergin branches
